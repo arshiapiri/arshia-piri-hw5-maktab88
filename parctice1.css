@@ -1,0 +1,25 @@
+.box-1{
+    background-color: black;
+    width: 50%;
+    height: 500px;
+    position: relative;
+    
+}
+.box-2{
+    background-color: yellow;
+    width: 400px;
+    height: 300px;
+    position:absolute;
+    
+    bottom:0;
+    right: -1px;
+}
+.box-3{
+    background-color: rgb(230, 21, 21);
+    width: 120px;
+    height: 120px;
+    position:absolute;
+    /* z-index: 1; */
+    right: 0px;
+    top: 30px;
+}

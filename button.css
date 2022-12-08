@@ -1,0 +1,70 @@
+body {
+    background-color: rgb(43, 61, 83);
+    height: 1000px;
+}
+
+.button {
+   width: 400px;
+   font-size: 30px;
+   background-color: inherit;
+   color: white;
+   padding: 1%;
+   border: 1px solid white;
+   cursor:pointer;
+   border-radius: 3px;
+}
+.button:hover{
+    background-color: white;
+    color: rgb(43, 61, 83);
+}
+.menu{
+    float: right;
+    margin-top: 20%;
+    display: inline-block;
+}
+.abc{
+    display: inline-block;
+    float: left;
+    margin-top:5%;
+    margin-left:4%;
+    width: 400px;
+}
+.parageraph{
+    float: left;
+    width: 400px;
+   position: relative;
+   top: 150px;
+   left: 20px;
+   
+}
+.image{
+    position: relative;
+    left: 430px;
+    float: right;
+    width: 400px;
+    bottom: 100px;
+}
+.menu button{
+    border-radius: 100%;
+    width: 20px;
+    height: 20px;
+    margin: 10%;
+    display: block;
+    border: 1px solid rgb(187,187,187);
+}
+.blue{
+    background-color: rgb(33, 34, 34);
+}
+
+.red{
+    background-color: rgb(185, 50, 90);
+}
+.yellow{
+    background-color: rgb(168, 38, 140);
+}
+.orange{
+    background-color: orange;
+}
+.green{
+    background-color: green;
+}

@@ -1,0 +1,64 @@
+.mainBox{
+    position: absolute;
+    background-color: #1c75be;
+    height: 500px;
+    width: 1000px;
+    left: 180px;
+    
+}
+.logIn{
+    background-color: beige;
+    position: relative;
+    height: 270px;
+    width: 350px;
+    left: 300px;
+    border-radius: 5px;
+    bottom: 15px;
+    color: rgb(131, 131, 131);
+    padding-right: 25px;
+}
+.logIn1{
+    position: relative;
+    left: 155px;
+    top: 30px;
+}
+.email{
+    position: relative;
+    background-color: rgb(224, 220, 220);
+    border-radius:3px;
+    color:rgb(185, 185, 185);
+    padding:10px 15px;
+    text-align:center;
+    font-size:16px; 
+    border: 0px;
+    top: 30px;
+    left: 80px;
+    
+}
+.password{
+    position: relative;
+    background-color: rgb(224, 220, 220);
+    border-radius:3px;
+    color:rgb(185, 185, 185);
+    padding:10px 15px;
+    text-align:center;
+    font-size:16px; 
+    border: 0px;
+    top: 40px;
+    left: 80px;
+    
+}
+.button{
+    background-color:#1c75be;
+    border:none;
+    width: 225px;
+        border-radius: 3px;
+        color:#fff;
+        padding:12px 15px;
+        text-align:center;
+        font-size:16px;   
+    cursor:pointer;
+    position: relative;
+    left: 80px;
+    top: 50px;
+}

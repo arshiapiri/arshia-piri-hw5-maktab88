@@ -1,0 +1,66 @@
+body{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.mainBox{
+    position: absolute;
+    background-color: rgb(245, 245, 245);
+    height: 250px;
+    width: 700px;
+    border: 1px solid rgb(197, 195, 195);
+    top: 200px;
+    left: 300px;
+    border-radius: 5px;
+    
+}
+.header{
+    background-color: rgb(238, 238, 238);
+    color: rgb(61, 61, 61);
+    text-align: center;
+        height: 49px;
+        width: 699px;
+        position: relative;
+        border: 1px solid rgb(197, 195, 195);
+        border-radius: 5px;
+        
+
+}
+.featured{
+    position: relative;
+    top: 13px;
+}
+.title{
+    position: relative;
+    left: 260px;
+}
+.Paragraph{
+    position: relative;
+    left: 130px;
+}
+.button{
+    background-color:#1c75be;
+    border:none;
+        border-radius:7px;
+        color:#fff;
+        padding:10px 15px;
+        text-align:center;
+        font-size:16px;   
+    cursor:pointer;
+    position: relative;
+    left: 280px;
+    top: 20px;
+}
+.footer{
+    background-color: rgb(238, 238, 238);
+    color: rgb(99, 97, 97);
+    text-align: center;
+        height: 49px;
+        width: 699px;
+        position: relative;
+        top: 36px;
+        border: 1px solid rgb(221, 217, 217);
+        border-radius: 5px;
+}
+.days{
+    position: relative;
+    top: 5px;
+}
